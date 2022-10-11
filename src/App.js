@@ -1,6 +1,6 @@
 // import React, { useState, useEffect } from 'react';
 // import Card from './Component/Card';
-// import Welcome from './Component/Class';
+// import Welcome from './Component/className';
 
 // function App() {
 //   const [nama, setNama] = useState("Tono");
@@ -40,7 +40,7 @@
 
 //     </div>
 
-    
+
 //   );
 // }
 
@@ -50,7 +50,6 @@
 
 import React, { useState, useEffect } from 'react';
 import Card from './Component/Card';
-import Welcome from './Component/Class';
 import Router from './router/index';
 
 function App() {
@@ -60,7 +59,7 @@ function App() {
       <Router />
     </div>
 
-    
+
   );
 }
 

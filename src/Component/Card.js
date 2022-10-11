@@ -7,14 +7,14 @@ const Card = (props) => {
     return (
         <>
             {/* bootstrap */}
-            <button className={`btn btn-primary ${style.menu}`}>OK</button>
+            <button classNameName={`btn btn-primary ${style.menu}`}>OK</button>
 
-            {/* <div className={style.menu}>
+            {/* <div classNameName={style.menu}>
        <h1>Hello world</h1>
         </div> */}
 
             {/* style module */}
-            {/* <div className={`${style.header} ${style.menu}`}>
+            {/* <div classNameName={`${style.header} ${style.menu}`}>
                 <h1>Hello world</h1>
             </div> */}
 
